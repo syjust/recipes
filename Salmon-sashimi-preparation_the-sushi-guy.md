@@ -1,4 +1,8 @@
-## Instructions
+## Saumon décongelé
+
+* Après 12 à 24h de décongélation au réfirgérateur
+
+### Instructions
 
 * **Vérification initiale** : sentir le saumon, inspecter visuellement la chair, séparer la partie *loin* et la partie *ventre*, repérer et prévoir de retirer la graisse brune.
 * **Préparation** : disposer le saumon sur un plateau, parer si nécessaire (graisse isolante / parties abîmées).
@@ -13,6 +17,14 @@
 ```
 
 
-## Video
+### Video
 
 * https://www.youtube.com/watch?v=br0x70CLoz0
+
+## Saumon congelé
+
+* En partant d'un saumon congelé
+
+### Video
+
+* https://www.youtube.com/shorts/C8LmMUfR5pE
